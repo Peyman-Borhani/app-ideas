@@ -211,8 +211,8 @@ Main features: information on tracks/talks (speaker bio, links to slides), sched
 > Using the YouTube API, your app should be able to take in a string, search for the videos and return a list.
 For example, if I wanted to watch Cosmos Documantries, must return most related titles, and the 1st related item with large preview ready to play on top.
 If you're not specific, searching by one word, for example: "Documantry", it should return up to 10 related results in a column. 
-Other example features: 
-- 2 columns in one page
-- a button to repeat loop an item or list
-- play items by random order without repeat
-- limit number of results returned, to fit in one page and resize items thumbnail size per amount of videos.
+> Extra features:  
+> - 2 columns in one page
+> - a button to repeat loop an item or list
+> - play items by random order without repeat
+> - limit number of results returned, to fit in one page and resize items thumbnail size per amount of videos.
