@@ -58,7 +58,9 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Dedicated Compass
 
-### Diet tracker
+### Diet tracker / personalization
+
+Receiving list of the ingredients and meals in user's taste as well as current physical charateristics (weight, height, etc.) , this app will suggest a diet, meals to be part of the diet, nutrition facts along with their calories and shares the recipe for making the dishes in users taste and aligned with their eating habits.
 
 ### Docker Client
 
@@ -75,6 +77,8 @@ This app should resemble an HR type dashboard where a user can login and view in
 ### Gallery or Portfolio app
 
 ### Gift app (find gifts for friends)
+
+This app will ask you to talk about your friend  (carctristics / preferences / motivations / attitude). Its ML engine will suggest a suitable gift that your friend will most probably like. 
 
 ### GitHub API client
 
@@ -94,7 +98,7 @@ This app should resemble an HR type dashboard where a user can login and view in
 
 ### Hand Gesture Detector/Translator
 
-An app that will use device camera as input, detect a person's gestures & movements and translate them into meaningful work i.e. perform some actions based on detected hand gestures. Best use case would be using it for teaching new things to toddlers with sounds and animations. Also, it can make understanding and interaction easier with deaf-dumb people.
+This app will use Innersial Measurement Units/device camera as input, detect a person's gestures & movements and translate them into meaningful work i.e. perform some actions based on detected hand gestures. Best use case would be using it for teaching new things to toddlers with sounds and animations. Also, it can make understanding and interaction easier with deaf-dumb people.
 
 ### Hangman
 
@@ -107,6 +111,8 @@ An app that will use device camera as input, detect a person's gestures & moveme
 ### Kids' milestones tracker
 
 ### Language Translator (think Google Translate)
+
+This app can be text to text / speech to speech / text to speech / speech to text translator.
 
 ### Mail client
 
@@ -124,7 +130,9 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Offline book reader
 
-### Pedometer
+### Pedometer/Indoor Localization/Hand gesture recognition
+
+IOS SDK will collect the Inertial Measurement Units (IMU) data of smart phone (i.e., Accelerometer, Magnetometer, Gyroscope). This data can either be sent to our processing unit on cloud or be used locally to (1) calculate number of steps, (2) calculate step lengths, (3) estimate the heading direction on each step (4) recognize the activity (i.e., running, walking ...) (5) localize the user in an indoor venue (6) perform different tasks based on user's hand gesture (7) suggest shortest path to a pinned indoor destination.
 
 ### Photo booth
 
@@ -138,7 +146,9 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Planning Poker Cards
 
-### Podcast player
+### Podcast suggestor/player
+
+This app will ask the user about what type of podcast they are looking for. Then receives the response as a text/speech from user and will suggests a podcast that is most useful to user.
 
 ### Pomodoro App
 
